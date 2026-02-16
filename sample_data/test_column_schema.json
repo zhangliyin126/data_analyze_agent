@@ -1,0 +1,19 @@
+{
+  "columns": {
+    "user_id": {
+      "suggested_role": "group"
+    },
+    "visit_time": {
+      "suggested_role": "time"
+    },
+    "y": {
+      "suggested_role": "target"
+    },
+    "region": {
+      "suggested_role": "feature"
+    },
+    "channel": {
+      "suggested_role": "feature"
+    }
+  }
+}
